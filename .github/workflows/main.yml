@@ -15,7 +15,7 @@ jobs:
 
       - uses: actions/checkout@v3
       - name: "Login to Docker hub"
-        run: docker login --username shimaa 12345 --password dckr_pat_C8uMQIrZbRnkYs-09jLJj2CzLaM 
+        run: docker login --username shimaa 1234 --password dckr_pat_C8uMQIrZbRnkYs-09jLJj2CzLaM 
       
 
       
